@@ -1,10 +1,10 @@
 {
-  "title": "SCP:SL",
-  "titleTemplate": "| Kyle's Facility",
-  "welcomeText": "# SCP: Secret Laboratory DDOSU SERVER\n\nSimple website.",
-  "logo": "/images/uploads/picsart_05-28-04.42.31-scaled.jpg",
-  "icon": "/images/uploads/picsart_05-28-04.42.31-scaled.jpg",
-  "loadingColor": "#0b3765",
-  "seoDescription": "SCP Secret Laboratory",
+  "title": " ",
+  "titleTemplate": " ",
+  "welcomeText": "#",
+  "logo": "/images/uploads/logo.svg",
+  "icon": "/images/uploads/logo.png",
+  "loadingColor": "#ffffff",
+  "seoDescription": " ",
   "seoMetaImage": ""
 }
